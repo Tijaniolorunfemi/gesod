@@ -1,14 +1,14 @@
 
 .page{
-    /* background: linear-gradient(-100deg, rgba(226, 218, 223, 0.707) 50%, rgb(224, 247, 77) 50% ); */
-    background-image: url(./images/bg-3.jpg);
-    background-position: top ;
+    background: linear-gradient(-100deg, rgb(247, 244, 246) 50%, rgb(51, 184, 255) 50% );
+    /* background-image: url(./images/bg-3.jpg); */
+    /* background-position: top ;
     background-color: rgb(92, 90, 91)  ;
-    background-repeat: no-repeat ;
+    background-repeat: no-repeat ; */
     /* background-size: 1200px ; */
     height: 70vh ;
     font-family: sans-serif ;
-    color: white;
+    /* color: white; */
     font-size: bold ;
     margin-top: 10px ;
 }
@@ -127,12 +127,12 @@
     padding-left: 30px ;
 }
 
-a {
+/* a {
     color: white ;
-}
+} */
 a:hover {
     text-decoration: none;  
-    color: wh;
+    /* color: wh; */
 }
 .pad-1{
     padding-left: 10px ;
